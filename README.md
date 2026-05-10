@@ -1,2 +1,2 @@
 # password-strength-checker
-Python Password Strength Checker
+Python project to evaluate password security using multiple validation rules.
